@@ -1,0 +1,128 @@
+FO: 754100.000000
+LB: 754060.000000
+UB: 754100.000000
+GAP (%): 0.005304
+TEMPO (seg.): 0.125396
+
+SOLUCAO DO PROBLEMA DE CORTE
+Padrao 1
+Itens: 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 
+Frequencia: 2
+
+Padrao 4
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 3 0 
+Frequencia: 4
+
+Padrao 8
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 3 0 
+Frequencia: 4
+
+Padrao 13
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 3 0 
+Frequencia: 6
+
+Padrao 17
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 3 0 
+Frequencia: 15
+
+Padrao 33
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 2 1 0 
+Frequencia: 4
+
+Padrao 36
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 2 0 0 
+Frequencia: 1
+
+Padrao 37
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 3 0 0 0 
+Frequencia: 2
+
+Padrao 39
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 1 0 0 0 
+Frequencia: 1
+
+Padrao 40
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 
+Frequencia: 1
+
+Padrao 41
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 3 0 0 0 0 
+Frequencia: 1
+
+Padrao 42
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 
+Frequencia: 3
+
+Padrao 45
+Itens: 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 2 1 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 46
+Itens: 0 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 47
+Itens: 0 0 0 0 0 0 0 0 0 1 4 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 50
+Itens: 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 3
+
+Padrao 65
+Itens: 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 15
+
+Padrao 66
+Itens: 0 0 0 0 0 0 0 1 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 96
+Itens: 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 35
+
+Padrao 106
+Itens: 0 0 0 0 0 0 3 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 11
+
+Padrao 113
+Itens: 0 0 0 0 0 2 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 117
+Itens: 0 0 0 0 2 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 6
+
+Padrao 126
+Itens: 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 7
+
+Padrao 127
+Itens: 0 0 0 2 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 129
+Itens: 1 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 7
+
+Padrao 135
+Itens: 1 0 2 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 136
+Itens: 1 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 137
+Itens: 1 1 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 138
+Itens: 4 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 139
+Itens: 9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 7
+
+TOTAL DE OBJETOS: 145
