@@ -1,0 +1,152 @@
+FO: 335120.000000
+LB: 335120.000000
+UB: 335120.000000
+GAP (%): 0.000000
+TEMPO (seg.): 0.820000
+
+SOLUCAO DO PROBLEMA DE CORTE
+Padrao 2
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 3 
+Frequencia: 2
+
+Padrao 3
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 2 
+Frequencia: 1
+
+Padrao 4
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 1 0 
+Frequencia: 1
+
+Padrao 6
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 
+Frequencia: 2
+
+Padrao 7
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 1 0 0 0 
+Frequencia: 1
+
+Padrao 9
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 
+Frequencia: 2
+
+Padrao 10
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 1 0 0 0 0 
+Frequencia: 1
+
+Padrao 11
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 
+Frequencia: 5
+
+Padrao 16
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 1 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 17
+Itens: 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 3 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 18
+Itens: 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 1 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 19
+Itens: 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 2 2 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 20
+Itens: 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 3 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 21
+Itens: 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 22
+Itens: 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 23
+Itens: 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 2 2 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 24
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 26
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 2
+
+Padrao 27
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 32
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 1 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 6
+
+Padrao 33
+Itens: 0 0 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 5
+
+Padrao 39
+Itens: 0 0 0 0 0 0 0 0 0 0 0 1 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 40
+Itens: 0 0 0 0 0 0 0 0 0 0 3 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 41
+Itens: 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 42
+Itens: 0 0 0 0 0 0 0 0 0 1 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 43
+Itens: 0 0 0 0 0 1 0 0 4 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 45
+Itens: 0 0 0 0 0 1 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 2
+
+Padrao 46
+Itens: 0 0 0 0 0 0 2 3 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 47
+Itens: 0 0 0 0 0 5 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 48
+Itens: 0 0 0 0 0 9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 5
+
+Padrao 53
+Itens: 0 0 0 0 3 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 54
+Itens: 0 0 0 1 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 55
+Itens: 0 0 9 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 59
+Itens: 0 0 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 6
+
+Padrao 62
+Itens: 0 9 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 1
+
+Padrao 63
+Itens: 8 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 2
+
+TOTAL DE OBJETOS: 64
