@@ -1,0 +1,36 @@
+FO: 295960.000000
+LB: 294621.023430
+UB: 295960.000000
+GAP (%): 0.452418
+TEMPO (seg.): 26102.530000
+
+SOLUCAO DO PROBLEMA DE CORTE
+Padrao 2015
+Itens: 0 0 0 0 2 1 0 0 0 0 1 0 0 0 1 
+Frequencia: 2
+
+Padrao 2327
+Itens: 0 0 0 1 0 0 0 1 0 2 0 0 0 0 1 
+Frequencia: 2
+
+Padrao 3821
+Itens: 0 0 1 0 0 1 0 0 1 1 0 0 1 0 0 
+Frequencia: 4
+
+Padrao 5380
+Itens: 0 1 0 0 0 0 0 1 0 0 1 0 0 0 2 
+Frequencia: 3
+
+Padrao 7731
+Itens: 0 2 0 0 0 0 4 0 0 0 0 0 0 0 0 
+Frequencia: 36
+
+Padrao 12515
+Itens: 1 1 0 0 0 0 0 1 1 1 0 1 0 0 0 
+Frequencia: 6
+
+Padrao 13176
+Itens: 1 1 0 1 0 1 0 1 0 0 0 0 0 1 0 
+Frequencia: 4
+
+TOTAL DE OBJETOS: 57

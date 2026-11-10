@@ -1,0 +1,72 @@
+FO: 737080.000000
+LB: 725400.000000
+UB: 737080.000000
+GAP (%): 1.584631
+TEMPO (seg.): 3644.838440
+
+SOLUCAO DO PROBLEMA DE CORTE
+Padrao 340160
+Itens: 0 0 0 0 0 0 0 1 3 0 0 1 0 0 0 0 0 0 0 0 0 3 0 
+Frequencia: 2
+
+Padrao 1921978
+Itens: 0 0 0 1 1 0 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 2 1 
+Frequencia: 6
+
+Padrao 2209039
+Itens: 0 0 0 2 1 1 3 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+Frequencia: 7
+
+Padrao 2243550
+Itens: 0 0 0 3 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 3 0 
+Frequencia: 1
+
+Padrao 3008114
+Itens: 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 2 1 0 
+Frequencia: 5
+
+Padrao 4235035
+Itens: 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 3 0 
+Frequencia: 4
+
+Padrao 5571259
+Itens: 1 0 0 0 0 0 0 5 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 
+Frequencia: 2
+
+Padrao 5571269
+Itens: 1 0 0 0 0 0 0 5 0 0 0 0 2 0 0 0 0 0 0 0 0 1 0 
+Frequencia: 9
+
+Padrao 5571646
+Itens: 1 0 0 0 0 0 0 6 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 
+Frequencia: 4
+
+Padrao 5782161
+Itens: 1 0 0 0 0 1 0 5 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 
+Frequencia: 14
+
+Padrao 6128423
+Itens: 1 0 0 0 2 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 0 1 0 
+Frequencia: 8
+
+Padrao 6164225
+Itens: 1 0 0 0 3 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 2 0 
+Frequencia: 5
+
+Padrao 8752897
+Itens: 2 0 0 1 0 0 1 1 3 1 0 0 0 0 1 0 0 0 0 0 0 0 0 
+Frequencia: 4
+
+Padrao 8752905
+Itens: 2 0 0 1 0 0 1 1 4 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+Frequencia: 4
+
+Padrao 8954259
+Itens: 2 0 1 0 0 0 0 1 4 1 0 0 0 0 0 1 0 0 0 0 0 0 0 
+Frequencia: 4
+
+Padrao 11051618
+Itens: 6 0 1 0 0 0 0 1 2 0 2 0 0 0 0 0 0 0 0 0 0 0 0 
+Frequencia: 2
+
+TOTAL DE OBJETOS: 81
